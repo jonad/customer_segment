@@ -1,4 +1,3 @@
-# [Udacity Machine Learning] (https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009)
 ## Project: Creating Customer Segments
 
 ### Install
